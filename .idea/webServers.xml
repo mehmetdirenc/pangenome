@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="1ec0c1dd-391d-459a-8ae0-d97508a8f294" name="m3_l1">
+        <fileTransfer accessType="SFTP" host="l1.m3c.uni-tuebingen.de" port="22" sshConfigId="11a2a777-318a-4f2d-ab48-9eebce7e26be" sshConfig="magmu818@l1.m3c.uni-tuebingen.de:22 key" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
